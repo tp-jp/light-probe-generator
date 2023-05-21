@@ -18,7 +18,7 @@ vpm add repo https://tp-jp.github.io/vpm-repos/index.json
 ```
 VCCから任意のプロジェクトを選択し、「Manage Project」から「Manage Packages」を開きます。
 一覧の中から `LightProbeGenerator` の右にある「＋」ボタンをクリックするか「Installed Vection」から任意のバージョンを選択することで、プロジェクトにインポートします。
-![image](https://github.com/tp-jp/LightProbeGenerator/assets/130125691/a439a948-54ab-41be-ba5b-dbaeb2d2dbc2)
+![image](https://github.com/tp-jp/LightProbeGenerator/assets/130125691/790fc4f0-3dd9-43f8-9a2d-317379869bdd)
 
 ## 使い方
 
