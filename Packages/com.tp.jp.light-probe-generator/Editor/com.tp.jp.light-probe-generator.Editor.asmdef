@@ -1,0 +1,16 @@
+{
+  "name": "com.tp.jp.light-probe-generator.Editor",
+  "references": [
+    "VRC.SDKBase",
+    "VRC.SDKBase.Editor",
+    "com.tp.jp.light-probe-generator"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}
