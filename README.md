@@ -20,6 +20,8 @@ VCCから任意のプロジェクトを選択し、「Manage Project」から「
 一覧の中から `LightProbeGenerator` の右にある「＋」ボタンをクリックするか「Installed Vection」から任意のバージョンを選択することで、プロジェクトにインポートします。
 ![image](https://github.com/tp-jp/LightProbeGenerator/assets/130125691/790fc4f0-3dd9-43f8-9a2d-317379869bdd)
 
+リポジトリを使わずに導入したい場合は [releases](https://github.com/tp-jp/LightProbeGenerator/releases) から unitypackage をダウンロードして、プロジェクトにインポートしてください。
+
 ## 使い方
 
 1. Packages/LightProbeGenerator/Runtime/Prefab/LightProbeGenerator.prefab を Hierarchy にドラッグ＆ドロップします。
