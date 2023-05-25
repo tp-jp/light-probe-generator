@@ -44,3 +44,5 @@ VCCから任意のプロジェクトを選択し、「Manage Project」から「
 ![image](https://github.com/tp-jp/LightProbeGenerator/assets/130125691/a48c2e37-2485-4dea-a7ab-40c6cd20e229)
 ![image](https://github.com/tp-jp/LightProbeGenerator/assets/130125691/3bb59b87-93d5-4961-b439-93fc72fcf533)
 
+## 更新履歴
+[CHANGELOG](CHANGELOG.md)
