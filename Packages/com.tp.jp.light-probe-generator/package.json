@@ -1,7 +1,7 @@
 {
   "name": "com.tp.jp.light-probe-generator",
   "displayName": "LightProbeGenerator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "unity": "2019.4",
   "description": "LigthProbe \u3092\u7c21\u5358\u306b\u914d\u7f6e\u3067\u304d\u308b\u4fbf\u5229\u30c4\u30fc\u30eb\u3002",
   "author": {
