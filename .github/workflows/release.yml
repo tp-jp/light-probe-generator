@@ -67,5 +67,5 @@ jobs:
             -X POST \
             -H "Authorization: token $TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
-            https://api.github.com/repos/$OWNER/$REPO/dispatches \
+            https://api.github.com/repos/tp-jp/vpm-repos/dispatches \
             -d '{"event_type":"on-demand-test","client_payload":{"env": "dev"}}'
