@@ -56,3 +56,16 @@ jobs:
             ${{ env.zipFile }}
             ${{ env.unityPackage }}
             Packages/${{ env.packageName }}/package.json
+
+      - name: Call Workflow
+        run: |
+          TOKEN=${{ secrets.VPM_REPOS_PAT }}
+          OWNER=tp-jp
+          REPO=vpm-repos
+
+          curl \
+            -X POST \
+            -H "Authorization: token $TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/$OWNER/$REPO/dispatches \
+            -d '{"event_type":"on-demand-test","client_payload":{"env": "dev"}}'
